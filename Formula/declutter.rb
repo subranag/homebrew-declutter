@@ -1,4 +1,4 @@
-class Myapp < Formula
+class Declutter < Formula
   desc "Declutter web pages and turn them into archival documents"
   homepage "https://github.com/subranag/declutter"
   version "1.0.0"
